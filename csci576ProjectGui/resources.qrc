@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/open.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play-button.png</file>
+        <file>icons/stop-button.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/papers-outlines-stack.png</file>
+        <file>icons/pen.png</file>
+    </qresource>
+</RCC>
